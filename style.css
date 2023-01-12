@@ -397,7 +397,9 @@ section {
 
 
 /* Portfolio start */
-
+.portofolio{
+    height: 120vh;
+}
 .portfolio h2 {
     text-align: center;
     font-size: var(--font-judul);
